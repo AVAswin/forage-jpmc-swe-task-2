@@ -1,2 +1,2 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+Make the data feed grapg visually appealing and working
